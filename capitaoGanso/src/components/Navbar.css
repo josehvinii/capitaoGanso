@@ -1,0 +1,17 @@
+.container-navbar{
+    background-color: #85a4cf;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.titulo{
+    color: #54749e;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.icon-nav{
+    font-size: 75px;
+    color: #54749e;
+}
